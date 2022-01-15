@@ -95,7 +95,7 @@
     "loglevel": "^1.7.1",
     "loglevel-plugin-prefix": "^0.8.4",
     "mailchimp": "^1.2.1",
-    "marked": "^2.0.0",
+    "marked": "^4.0.10",
     "meteor-node-stubs": "^1.0.1",
     "mingo": "^2.2.0",
     "mockaroo": "^0.1.7",
